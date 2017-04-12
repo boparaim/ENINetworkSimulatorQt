@@ -3,15 +3,15 @@
 
 *~
 *.autosave
-*.a
+#*.a
 *.core
 *.moc
-*.o
-*.obj
+#*.o
+#*.obj
 *.orig
 *.rej
-*.so
-*.so.*
+#*.so
+#*.so.*
 *_pch.h.cpp
 *_resource.rc
 *.qm
@@ -36,7 +36,7 @@ Thumbs.db
 /.qmake.stash
 
 # qtcreator generated files
-*.pro.user*
+#*.pro.user*
 
 # xemacs temporary files
 *.flc
@@ -68,6 +68,6 @@ Thumbs.db
 
 # Binaries
 # --------
-*.dll
-*.exe
+#*.dll
+#*.exe
 
